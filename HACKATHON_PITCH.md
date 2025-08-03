@@ -88,4 +88,38 @@ Our **agentic workflow** leverages multiple AI systems working in harmony:
 
 ---
 
+## 🎯 How Quadrant AI Aligns with Agentic Workflows Track
+
+**"Build autonomous agents that think, act, and execute"** - This perfectly describes Quadrant AI's core architecture.
+
+### Our Autonomous Agent System:
+
+**🧠 THINKS**: 
+- Our Classification Agent uses advanced reasoning to understand email context, sender relationships, and business impact
+- Context-aware prompting enables the AI to distinguish between truly urgent items vs. false alarms
+- The system learns patterns: "Server down" emails are always urgent, while "newsletter" emails rarely are
+
+**⚡ ACTS**:
+- Email Ingestion Agent automatically fetches and preprocesses emails from multiple sources
+- Voice Synthesis Agent proactively creates audio summaries for critical items
+- UI Orchestration Agent manages real-time updates and user interactions without manual intervention
+
+**🚀 EXECUTES**:
+- Complete end-to-end workflow: Email → Analysis → Classification → Voice Alert → Dashboard Update
+- Autonomous decision-making using the Eisenhower Matrix framework
+- Self-healing fallback systems (Gmail API → Local processing when needed)
+- Real-time execution with progress tracking and error handling
+
+### Why This Is True Agentic Workflow:
+
+1. **Multi-Agent Coordination**: Four specialized agents working together autonomously
+2. **Decision Autonomy**: The system makes classification decisions without human intervention
+3. **Adaptive Behavior**: Handles various email formats, sources, and edge cases automatically
+4. **Proactive Actions**: Doesn't wait for user input - immediately processes and alerts
+5. **Workflow Orchestration**: Manages complex async operations across multiple AI systems
+
+**The Result**: A truly autonomous system that transforms chaotic email streams into organized, actionable intelligence - exactly what agentic workflows are designed to achieve.
+
+---
+
 *Quadrant AI: Because your inbox shouldn't run your life. Your AI should.*
