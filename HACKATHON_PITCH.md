@@ -11,7 +11,7 @@ We were inspired to bridge this gap by creating an **AI-powered agent** that aut
 Quadrant AI is an **agentic workflow system** that transforms email chaos into actionable intelligence:
 
 - **🤖 Smart Classification**: Uses SOTA LLMs to analyze email content and automatically categorize using the Eisenhower Matrix
-- **📧 Multi-Source Integration**: Connects to Gmail API or works with demo data for testing
+- **📧 Multi-Source Integration**: Connects to multiple email providers. Gmail API was used for this hackathon
 - **🎯 Priority Quadrants**: 
   - **Do Now** (Urgent + Important): Server outages, client emergencies
   - **Schedule** (Important, Not Urgent): Strategic planning, training programs
