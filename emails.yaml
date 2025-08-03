@@ -1,0 +1,51 @@
+# URGENT & IMPORTANT (Do Now - Quadrant 1)
+- subject: "URGENT: Server Down - Production Impact"
+  body: "Our main server is down affecting all customers. Need immediate action to restore service."
+  
+- subject: "Client Emergency: Contract Cancellation Notice"
+  body: "Major client threatening to cancel $2M contract due to delivery delays. CEO wants response in 30 minutes."
+
+- subject: "Security Breach Alert"
+  body: "Potential data breach detected. Immediate investigation required to prevent customer data exposure."
+
+# IMPORTANT & NOT URGENT (Schedule - Quadrant 2)
+- subject: "Strategic Planning Session for Q4"
+  body: "We need to schedule our quarterly strategic planning meeting for next month. Please suggest your availability."
+
+- subject: "Team Performance Review Preparation"
+  body: "Annual performance reviews are coming up in 6 weeks. Start preparing evaluation materials and feedback."
+
+- subject: "Training Program Implementation"
+  body: "HR wants to roll out new leadership training program over the next 3 months. Planning meeting needed."
+
+# URGENT & NOT IMPORTANT (Delegate - Quadrant 3)
+- subject: "Office Supplies Order - Deadline Today"
+  body: "Need to place office supplies order by end of day. Can someone from admin handle this?"
+
+- subject: "Meeting Room Booking Conflict"
+  body: "Two teams booked the same conference room for tomorrow. Need someone to resolve this quickly."
+
+- subject: "Printer Issues on 3rd Floor"
+  body: "Multiple reports of printer problems. Urgent but IT support can handle this."
+
+# NOT URGENT & NOT IMPORTANT (Ignore - Quadrant 4)
+- subject: "Company Picnic Planning Committee"
+  body: "Volunteers needed for planning the annual company picnic in 4 months. It will be fun!"
+
+- subject: "Weekly Newsletter"
+  body: "Here's this week's updates and articles to check out! Some interesting industry news."
+
+- subject: "Office Decorating Ideas"
+  body: "Let's make our workspace more vibrant! Share your ideas for office decoration themes."
+- subject: "Quarterly Report Reminder"
+  body: "Hi, just a reminder to send Q3 reports by Friday."
+
+- subject: "Team Lunch"
+  body: "Hey, we’re thinking of grabbing lunch at 1pm. Join us?"
+
+- subject: "Customer Escalation"
+  body: "Urgent: client is unhappy with the last update. Need response ASAP."
+
+- subject: "Weekly Newsletter"
+  body: "Here’s this week’s updates and articles to check out!"
+
